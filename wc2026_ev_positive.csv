@@ -1,0 +1,74 @@
+"market","team","dk_odds","dk_prob","sim_prob","edge","ev","ev_pct"
+"To Qualify From Group","Spain","−10000",3,100,97,0.01,1
+"To Qualify From Group","Argentina","−10000",3,99.6,96.6,0.00596,0.6
+"To Qualify From Group","England","−10000",3,99.5,96.5,0.00495,0.49
+"To Qualify From Group","Switzerland","−1800",2.8,99.2,96.4,0.0471111111111111,4.71
+"To Qualify From Group","France","−5000",2.9,99.1,96.2,0.01082,1.08
+"To Qualify From Group","Ecuador","−900",2.7,98.7,96,0.0966666666666667,9.67
+"To Qualify From Group","Croatia","−475",2.5,96.7,94.2,0.170578947368421,17.06
+"To Qualify From Group","Netherlands","−1400",2.8,96.7,93.9,0.0360714285714287,3.61
+"To Qualify From Group","Uruguay","−800",2.7,96.2,93.5,0.0822500000000001,8.23
+"To Qualify From Group","Colombia","−800",2.7,96.1,93.4,0.081125,8.11
+"To Qualify From Group","Mexico","−750",2.6,95.9,93.3,0.0868666666666668,8.69
+"To Qualify From Group","Canada","−500",2.5,95.2,92.7,0.1424,14.24
+"To Qualify From Group","Japan","−340",2.3,92.5,90.2,0.197058823529412,19.71
+"To Qualify From Group","Turkey","−500",2.5,88.9,86.4,0.0668,6.68
+"To Qualify From Group","Norway","−575",2.6,86.9,84.3,0.0201304347826088,2.01
+"Group Winner","Spain","−500",6.3,89.9,83.6,0.0788,7.88
+"Group Winner","Argentina","−340",5.8,88.3,82.5,0.142705882352941,14.27
+"To Qualify From Group","South Korea","−330",2.3,83.8,81.5,0.0919393939393939,9.19
+"To Qualify From Group","Iran","−230",2.1,82.3,80.2,0.180826086956522,18.08
+"To Qualify From Group","Senegal","−200",2,81.1,79.1,0.2165,21.65
+"To Qualify From Group","Paraguay","−185",1.9,78.3,76.4,0.206243243243243,20.62
+"To Qualify From Group","Scotland","−230",2.1,76.4,74.3,0.0961739130434783,9.62
+"Group Winner","France","−235",5.3,70.4,65.1,0.00357446808510647,0.36
+"To Qualify From Group","Panama","+220",0.9,65.9,65,1.1088,110.88
+"To Reach The Quarter Final","Spain","−160",6.8,70.8,64,0.1505,15.05
+"To Qualify From Group","Australia","+100",1.5,65.4,63.9,0.308,30.8
+"Group Winner","Switzerland","−105",3.9,66.1,62.2,0.290523809523809,29.05
+"To Reach The Quarter Final","Argentina","−110",5.8,66,60.2,0.26,26
+"To Reach The Quarter Final","France","−135",6.3,65.3,59,0.136703703703704,13.67
+"Group Winner","Netherlands","−125",4.2,58.1,53.9,0.0458,4.58
+"Group Winner","Mexico","+110",3.6,57.3,53.7,0.2033,20.33
+"To Reach The Semi Final","Spain","+100",10.3,63.5,53.2,0.27,27
+"Group Winner","Ecuador","+400",1.5,48.7,47.2,1.435,143.5
+"To Qualify From Group","Uzbekistan","+190",1,45.7,44.7,0.3253,32.53
+"Group Winner","Turkey","+180",2.7,47.3,44.6,0.3244,32.44
+"To Reach The Semi Final","Argentina","+190",7.1,51.3,44.2,0.4877,48.77
+"Group Winner","Colombia","+240",2.2,45.5,43.3,0.547,54.7
+"To Reach The Semi Final","France","+130",9,49.4,40.4,0.1362,13.62
+"To Reach The Quarter Final","Netherlands","+180",3.9,43.6,39.7,0.2208,22.08
+"Group Winner","Japan","+300",1.9,34.9,33,0.396,39.6
+"To Qualify From Group","Jordan","+275",0.8,33.2,32.4,0.245,24.5
+"To Reach The Quarter Final","Colombia","+280",2.9,34.6,31.7,0.3148,31.48
+"Group Winner","Croatia","+400",1.5,31.6,30.1,0.58,58
+"To Reach The Quarter Final","Turkey","+300",2.8,30.7,27.9,0.228,22.8
+"Group Winner","Canada","+260",2.1,30,27.9,0.0800000000000001,8
+"To Reach The Quarter Final","Switzerland","+275",2.9,30.3,27.4,0.13625,13.62
+"Group Winner","Paraguay","+425",1.4,27.3,25.9,0.43325,43.33
+"To Reach The Quarter Final","Ecuador","+550",1.7,27.3,25.6,0.7745,77.45
+"To Reach The Quarter Final","Japan","+400",2.2,26.3,24.1,0.315,31.5
+"Group Winner","Iran","+600",1.1,24.7,23.6,0.729,72.9
+"To Reach The Quarter Final","Croatia","+400",2.2,25.1,22.9,0.255,25.5
+"Winner","Spain","+450",15.4,35,19.6,0.925,92.5
+"To Reach The Quarter Final","Senegal","+650",1.5,19.4,17.9,0.455,45.5
+"Group Winner","Morocco","+450",1.4,18.2,16.8,0.00099999999999989,0.1
+"To Reach The Semi Final","Netherlands","+450",3.8,20.4,16.6,0.122,12.2
+"Group Winner","Australia","+700",0.9,17,16.1,0.36,36
+"To Reach The Quarter Final","Paraguay","+800",1.2,16.5,15.3,0.485,48.5
+"To Reach The Semi Final","Colombia","+700",2.6,16.5,13.9,0.32,32
+"To Reach The Semi Final","Ecuador","+1400",1.4,14.2,12.8,1.13,113
+"Winner","Argentina","+850",8.9,21.2,12.3,1.014,101.4
+"Group Winner","Senegal","+850",0.8,12,11.2,0.14,14
+"To Reach The Semi Final","Croatia","+1000",1.9,12.1,10.2,0.331,33.1
+"To Reach The Semi Final","Japan","+1100",1.7,10.1,8.4,0.212,21.2
+"To Reach The Quarter Final","Australia","+1600",0.6,8.2,7.6,0.394,39.4
+"To Reach The Semi Final","Senegal","+1800",1.1,7.2,6.1,0.368,36.8
+"Group Winner","Panama","+2500",0.3,4,3.7,0.04,4
+"To Reach The Quarter Final","Panama","+3000",0.4,3.7,3.3,0.147,14.7
+"To Reach The Semi Final","Paraguay","+2500",0.8,3.9,3.1,0.014,1.4
+"Group Winner","Uzbekistan","+3500",0.2,3.3,3.1,0.188,18.8
+"Winner","France","+600",12.1,14.6,2.5,0.0219999999999999,2.2
+"Winner","Colombia","+4000",2.1,3.2,1.1,0.312,31.2
+"Winner","Ecuador","+8000",1,1.5,0.5,0.215,21.5
+"Winner","Croatia","+9000",0.9,1.4,0.5,0.274,27.4

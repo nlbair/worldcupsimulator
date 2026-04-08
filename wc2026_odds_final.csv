@@ -1,0 +1,536 @@
+subcategory_id,market,event,team,label,american_odds,decimal_odds,fractional_odds,true_odds
+4514,Moneyline,Mexico vs South Africa,Mexico,Mexico,−190,1.52,10/19,1.52631579
+4514,Moneyline,Mexico vs South Africa,Draw,Draw,+330,4.30,33/10,4.3
+4514,Moneyline,Mexico vs South Africa,South Africa,South Africa,+550,6.50,11/2,6.5
+4514,Moneyline,South Korea vs Czech Republic,South Korea,South Korea,+155,2.55,31/20,2.55
+4514,Moneyline,South Korea vs Czech Republic,Draw,Draw,+195,2.95,39/20,2.95
+4514,Moneyline,South Korea vs Czech Republic,Czech Republic,Czech Republic,+170,2.70,17/10,2.7
+4514,Moneyline,Canada vs Bosnia,Canada,Canada,−115,1.86,20/23,1.86956522
+4514,Moneyline,Canada vs Bosnia,Draw,Draw,+230,3.30,23/10,3.3
+4514,Moneyline,Canada vs Bosnia,Bosnia,Bosnia,+270,3.70,27/10,3.7
+4514,Moneyline,USA vs Paraguay,USA,USA,−105,1.95,20/21,1.95238096
+4514,Moneyline,USA vs Paraguay,Draw,Draw,+265,3.65,53/20,3.65
+4514,Moneyline,USA vs Paraguay,Paraguay,Paraguay,+285,3.85,57/20,3.85
+4514,Moneyline,Qatar vs Switzerland,Qatar,Qatar,+750,8.50,15/2,8.5
+4514,Moneyline,Qatar vs Switzerland,Draw,Draw,+400,5.00,4/1,5.0
+4514,Moneyline,Qatar vs Switzerland,Switzerland,Switzerland,−380,1.26,5/19,1.2631579
+4514,Moneyline,Brazil vs Morocco,Brazil,Brazil,−160,1.62,5/8,1.625
+4514,Moneyline,Brazil vs Morocco,Draw,Draw,+295,3.95,59/20,3.95
+4514,Moneyline,Brazil vs Morocco,Morocco,Morocco,+450,5.50,9/2,5.5
+4514,Moneyline,Haiti vs Scotland,Haiti,Haiti,+550,6.50,11/2,6.5
+4514,Moneyline,Haiti vs Scotland,Draw,Draw,+370,4.70,37/10,4.7
+4514,Moneyline,Haiti vs Scotland,Scotland,Scotland,−280,1.35,5/14,1.35714286
+4514,Moneyline,Australia vs Turkey,Australia,Australia,+295,3.95,59/20,3.95
+4514,Moneyline,Australia vs Turkey,Draw,Draw,+230,3.30,23/10,3.3
+4514,Moneyline,Australia vs Turkey,Turkey,Turkey,−120,1.83,5/6,1.83333334
+4514,Moneyline,Germany vs Curacao,Germany,Germany,−20000,1.005,1/200,1.005
+4514,Moneyline,Germany vs Curacao,Draw,Draw,+1600,17.00,16/1,17.0
+4514,Moneyline,Germany vs Curacao,Curacao,Curacao,+7000,71.00,70/1,71.0
+4514,Moneyline,Netherlands vs Japan,Netherlands,Netherlands,+105,2.05,21/20,2.05
+4514,Moneyline,Netherlands vs Japan,Draw,Draw,+240,3.40,12/5,3.4
+4514,Moneyline,Netherlands vs Japan,Japan,Japan,+245,3.45,49/20,3.45
+4514,Moneyline,Ivory Coast vs Ecuador,Ivory Coast,Ivory Coast,+220,3.20,11/5,3.2
+4514,Moneyline,Ivory Coast vs Ecuador,Draw,Draw,+180,2.80,9/5,2.8
+4514,Moneyline,Ivory Coast vs Ecuador,Ecuador,Ecuador,+130,2.30,13/10,2.3
+4514,Moneyline,Sweden vs Tunisia,Sweden,Sweden,−115,1.86,20/23,1.86956522
+4514,Moneyline,Sweden vs Tunisia,Draw,Draw,+225,3.25,9/4,3.25
+4514,Moneyline,Sweden vs Tunisia,Tunisia,Tunisia,+290,3.90,29/10,3.9
+4514,Moneyline,Spain vs Cape Verde,Spain,Spain,−1800,1.05,1/18,1.05555556
+4514,Moneyline,Spain vs Cape Verde,Draw,Draw,+800,9.00,8/1,9.0
+4514,Moneyline,Spain vs Cape Verde,Cape Verde,Cape Verde,+2000,21.00,20/1,21.0
+4514,Moneyline,Belgium vs Egypt,Belgium,Belgium,−165,1.60,20/33,1.60606061
+4514,Moneyline,Belgium vs Egypt,Draw,Draw,+310,4.10,31/10,4.1
+4514,Moneyline,Belgium vs Egypt,Egypt,Egypt,+400,5.00,4/1,5.0
+4514,Moneyline,Saudi Arabia vs Uruguay,Saudi Arabia,Saudi Arabia,+425,5.25,17/4,5.25
+4514,Moneyline,Saudi Arabia vs Uruguay,Draw,Draw,+280,3.80,14/5,3.8
+4514,Moneyline,Saudi Arabia vs Uruguay,Uruguay,Uruguay,−180,1.55,5/9,1.55555556
+4514,Moneyline,Iran vs New Zealand,Iran,Iran,−135,1.74,20/27,1.74074075
+4514,Moneyline,Iran vs New Zealand,Draw,Draw,+245,3.45,49/20,3.45
+4514,Moneyline,Iran vs New Zealand,New Zealand,New Zealand,+320,4.20,16/5,4.2
+4514,Moneyline,Austria vs Jordan,Austria,Austria,−310,1.32,10/31,1.32258065
+4514,Moneyline,Austria vs Jordan,Draw,Draw,+380,4.80,19/5,4.8
+4514,Moneyline,Austria vs Jordan,Jordan,Jordan,+600,7.00,6/1,7.0
+4514,Moneyline,France vs Senegal,France,France,−255,1.39,20/51,1.39215687
+4514,Moneyline,France vs Senegal,Draw,Draw,+340,4.40,17/5,4.4
+4514,Moneyline,France vs Senegal,Senegal,Senegal,+550,6.50,11/2,6.5
+4514,Moneyline,Iraq vs Norway,Iraq,Iraq,+650,7.50,13/2,7.5
+4514,Moneyline,Iraq vs Norway,Draw,Draw,+400,5.00,4/1,5.0
+4514,Moneyline,Iraq vs Norway,Norway,Norway,−350,1.28,2/7,1.28571429
+4514,Moneyline,Argentina vs Algeria,Argentina,Argentina,−270,1.37,10/27,1.37037038
+4514,Moneyline,Argentina vs Algeria,Draw,Draw,+330,4.30,33/10,4.3
+4514,Moneyline,Argentina vs Algeria,Algeria,Algeria,+600,7.00,6/1,7.0
+4514,Moneyline,Portugal vs DR Congo,Portugal,Portugal,−350,1.28,2/7,1.28571429
+4514,Moneyline,Portugal vs DR Congo,Draw,Draw,+390,4.90,39/10,4.9
+4514,Moneyline,Portugal vs DR Congo,DR Congo,DR Congo,+700,8.00,7/1,8.0
+4514,Moneyline,England vs Croatia,England,England,−150,1.66,4/6,1.66666667
+4514,Moneyline,England vs Croatia,Draw,Draw,+300,4.00,3/1,4.0
+4514,Moneyline,England vs Croatia,Croatia,Croatia,+400,5.00,4/1,5.0
+4514,Moneyline,Ghana vs Panama,Ghana,Ghana,−105,1.95,20/21,1.95238096
+4514,Moneyline,Ghana vs Panama,Draw,Draw,+255,3.55,51/20,3.55
+4514,Moneyline,Ghana vs Panama,Panama,Panama,+230,3.30,23/10,3.3
+4514,Moneyline,Uzbekistan vs Colombia,Uzbekistan,Uzbekistan,+600,7.00,6/1,7.0
+4514,Moneyline,Uzbekistan vs Colombia,Draw,Draw,+320,4.20,16/5,4.2
+4514,Moneyline,Uzbekistan vs Colombia,Colombia,Colombia,−260,1.38,5/13,1.38461539
+4529,Winner,World Cup 2026,Spain,Spain,+450,5.50,9/2,5.5
+4529,Winner,World Cup 2026,France,France,+600,7.00,6/1,7.0
+4529,Winner,World Cup 2026,England,England,+600,7.00,6/1,7.0
+4529,Winner,World Cup 2026,Brazil,Brazil,+850,9.50,17/2,9.5
+4529,Winner,World Cup 2026,Argentina,Argentina,+850,9.50,17/2,9.5
+4529,Winner,World Cup 2026,Portugal,Portugal,+1100,12.00,11/1,12.0
+4529,Winner,World Cup 2026,Germany,Germany,+1400,15.00,14/1,15.0
+4529,Winner,World Cup 2026,Netherlands,Netherlands,+2000,21.00,20/1,21.0
+4529,Winner,World Cup 2026,Norway,Norway,+2800,29.00,28/1,29.0
+4529,Winner,World Cup 2026,Belgium,Belgium,+3500,36.00,35/1,36.0
+4529,Winner,World Cup 2026,Colombia,Colombia,+4000,41.00,40/1,41.0
+4529,Winner,World Cup 2026,Japan,Japan,+5000,51.00,50/1,51.0
+4529,Winner,World Cup 2026,Morocco,Morocco,+6000,61.00,60/1,61.0
+4529,Winner,World Cup 2026,Turkey,Turkey,+6500,66.00,65/1,66.0
+4529,Winner,World Cup 2026,USA,USA,+6500,66.00,65/1,66.0
+4529,Winner,World Cup 2026,Uruguay,Uruguay,+6500,66.00,65/1,66.0
+4529,Winner,World Cup 2026,Mexico,Mexico,+7000,71.00,70/1,71.0
+4529,Winner,World Cup 2026,Sweden,Sweden,+8000,81.00,80/1,81.0
+4529,Winner,World Cup 2026,Ecuador,Ecuador,+8000,81.00,80/1,81.0
+4529,Winner,World Cup 2026,Croatia,Croatia,+9000,91.00,90/1,91.0
+4529,Winner,World Cup 2026,Switzerland,Switzerland,+10000,101.00,100/1,101.0
+4529,Winner,World Cup 2026,Senegal,Senegal,+10000,101.00,100/1,101.0
+4529,Winner,World Cup 2026,Austria,Austria,+10000,101.00,100/1,101.0
+4529,Winner,World Cup 2026,Czech Republic,Czech Republic,+15000,151.00,150/1,151.0
+4529,Winner,World Cup 2026,Scotland,Scotland,+20000,201.00,200/1,201.0
+4529,Winner,World Cup 2026,Canada,Canada,+20000,201.00,200/1,201.0
+4529,Winner,World Cup 2026,Paraguay,Paraguay,+20000,201.00,200/1,201.0
+4529,Winner,World Cup 2026,Bosnia,Bosnia,+25000,251.00,250/1,251.0
+4529,Winner,World Cup 2026,Ivory Coast,Ivory Coast,+25000,251.00,250/1,251.0
+4529,Winner,World Cup 2026,Egypt,Egypt,+30000,301.00,300/1,301.0
+4529,Winner,World Cup 2026,Iran,Iran,+30000,301.00,300/1,301.0
+4529,Winner,World Cup 2026,Ghana,Ghana,+35000,351.00,350/1,351.0
+4529,Winner,World Cup 2026,South Korea,South Korea,+35000,351.00,350/1,351.0
+4529,Winner,World Cup 2026,Algeria,Algeria,+35000,351.00,350/1,351.0
+4529,Winner,World Cup 2026,Australia,Australia,+45000,451.00,450/1,451.0
+4529,Winner,World Cup 2026,Tunisia,Tunisia,+50000,501.00,500/1,501.0
+4529,Winner,World Cup 2026,DR Congo,DR Congo,+70000,701.00,700/1,701.0
+4529,Winner,World Cup 2026,South Africa,South Africa,+80000,801.00,800/1,801.0
+4529,Winner,World Cup 2026,Cape Verde,Cape Verde,+100000,1001.00,1000/1,1001.0
+4529,Winner,World Cup 2026,Saudi Arabia,Saudi Arabia,+100000,1001.00,1000/1,1001.0
+4529,Winner,World Cup 2026,Qatar,Qatar,+100000,1001.00,1000/1,1001.0
+4529,Winner,World Cup 2026,Panama,Panama,+100000,1001.00,1000/1,1001.0
+4529,Winner,World Cup 2026,New Zealand,New Zealand,+100000,1001.00,1000/1,1001.0
+4529,Winner,World Cup 2026,Iraq,Iraq,+100000,1001.00,1000/1,1001.0
+4529,Winner,World Cup 2026,Haiti,Haiti,+150000,1501.00,1500/1,1501.0
+4529,Winner,World Cup 2026,Uzbekistan,Uzbekistan,+150000,1501.00,1500/1,1501.0
+4529,Winner,World Cup 2026,Curacao,Curacao,+150000,1501.00,1500/1,1501.0
+4529,Winner,World Cup 2026,Jordan,Jordan,+150000,1501.00,1500/1,1501.0
+12312,To Qualify From Group,World Cup 2026 – Group A,Mexico,Mexico,−750,1.13,2/15,1.13333334
+12312,To Qualify From Group,World Cup 2026 – Group A,Czech Republic,Czech Republic,−475,1.21,4/19,1.21052632
+12312,To Qualify From Group,World Cup 2026 – Group A,South Korea,South Korea,−330,1.30,10/33,1.30303031
+12312,To Qualify From Group,World Cup 2026 – Group A,South Africa,South Africa,+150,2.50,6/4,2.5
+12312,To Qualify From Group,World Cup 2026 – Group B,Switzerland,Switzerland,−1800,1.05,1/18,1.05555556
+12312,To Qualify From Group,World Cup 2026 – Group B,Canada,Canada,−500,1.20,1/5,1.2
+12312,To Qualify From Group,World Cup 2026 – Group B,Bosnia,Bosnia,−475,1.21,4/19,1.21052632
+12312,To Qualify From Group,World Cup 2026 – Group B,Qatar,Qatar,+300,4.00,3/1,4.0
+12312,To Qualify From Group,World Cup 2026 – Group D,USA,USA,−575,1.17,4/23,1.17391305
+12312,To Qualify From Group,World Cup 2026 – Group D,Turkey,Turkey,−500,1.20,1/5,1.2
+12312,To Qualify From Group,World Cup 2026 – Group D,Paraguay,Paraguay,−185,1.54,20/37,1.54054055
+12312,To Qualify From Group,World Cup 2026 – Group D,Australia,Australia,+100,2.00,1/1,2.0
+12312,To Qualify From Group,World Cup 2026 – Group C,Brazil,Brazil,−10000,1.01,1/100,1.01
+12312,To Qualify From Group,World Cup 2026 – Group C,Morocco,Morocco,−1000,1.10,1/10,1.1
+12312,To Qualify From Group,World Cup 2026 – Group C,Scotland,Scotland,−230,1.43,10/23,1.43478261
+12312,To Qualify From Group,World Cup 2026 – Group C,Haiti,Haiti,+700,8.00,7/1,8.0
+12312,To Qualify From Group,World Cup 2026 – Group E,Germany,Germany,−10000,1.01,1/100,1.01
+12312,To Qualify From Group,World Cup 2026 – Group E,Ecuador,Ecuador,−900,1.11,1/9,1.11111112
+12312,To Qualify From Group,World Cup 2026 – Group E,Ivory Coast,Ivory Coast,−370,1.27,10/37,1.27027028
+12312,To Qualify From Group,World Cup 2026 – Group E,Curacao,Curacao,+800,9.00,8/1,9.0
+12312,To Qualify From Group,World Cup 2026 – Group F,Netherlands,Netherlands,−1400,1.07,1/14,1.07142858
+12312,To Qualify From Group,World Cup 2026 – Group F,Japan,Japan,−340,1.29,5/17,1.29411765
+12312,To Qualify From Group,World Cup 2026 – Group F,Sweden,Sweden,−250,1.40,2/5,1.4
+12312,To Qualify From Group,World Cup 2026 – Group F,Tunisia,Tunisia,+120,2.20,6/5,2.2
+12312,To Qualify From Group,World Cup 2026 – Group H,Spain,Spain,−10000,1.01,1/100,1.01
+12312,To Qualify From Group,World Cup 2026 – Group H,Uruguay,Uruguay,−800,1.12,1/8,1.125
+12312,To Qualify From Group,World Cup 2026 – Group H,Saudi Arabia,Saudi Arabia,+120,2.20,6/5,2.2
+12312,To Qualify From Group,World Cup 2026 – Group H,Cape Verde,Cape Verde,+225,3.25,9/4,3.25
+12312,To Qualify From Group,World Cup 2026 – Group G,Belgium,Belgium,−2000,1.05,1/20,1.05
+12312,To Qualify From Group,World Cup 2026 – Group G,Egypt,Egypt,−310,1.32,10/31,1.32258065
+12312,To Qualify From Group,World Cup 2026 – Group G,Iran,Iran,−230,1.43,10/23,1.43478261
+12312,To Qualify From Group,World Cup 2026 – Group G,New Zealand,New Zealand,+175,2.75,7/4,2.75
+12312,To Qualify From Group,World Cup 2026 – Group I,France,France,−5000,1.02,1/50,1.02
+12312,To Qualify From Group,World Cup 2026 – Group I,Norway,Norway,−575,1.17,4/23,1.17391305
+12312,To Qualify From Group,World Cup 2026 – Group I,Senegal,Senegal,−200,1.50,1/2,1.5
+12312,To Qualify From Group,World Cup 2026 – Group I,Iraq,Iraq,+350,4.50,7/2,4.5
+12312,To Qualify From Group,World Cup 2026 – Group J,Argentina,Argentina,−10000,1.01,1/100,1.01
+12312,To Qualify From Group,World Cup 2026 – Group J,Austria,Austria,−340,1.29,5/17,1.29411765
+12312,To Qualify From Group,World Cup 2026 – Group J,Algeria,Algeria,−250,1.40,2/5,1.4
+12312,To Qualify From Group,World Cup 2026 – Group J,Jordan,Jordan,+275,3.75,11/4,3.75
+12312,To Qualify From Group,World Cup 2026 – Group L,England,England,−10000,1.01,1/100,1.01
+12312,To Qualify From Group,World Cup 2026 – Group L,Croatia,Croatia,−475,1.21,4/19,1.21052632
+12312,To Qualify From Group,World Cup 2026 – Group L,Ghana,Ghana,−155,1.64,20/31,1.6451613
+12312,To Qualify From Group,World Cup 2026 – Group L,Panama,Panama,+220,3.20,11/5,3.2
+12312,To Qualify From Group,World Cup 2026 – Group K,Portugal,Portugal,−5000,1.02,1/50,1.02
+12312,To Qualify From Group,World Cup 2026 – Group K,Colombia,Colombia,−800,1.12,1/8,1.125
+12312,To Qualify From Group,World Cup 2026 – Group K,DR Congo,DR Congo,−155,1.64,20/31,1.6451613
+12312,To Qualify From Group,World Cup 2026 – Group K,Uzbekistan,Uzbekistan,+190,2.90,19/10,2.9
+12313,Group Forecast,World Cup 2026 – Group C,Brazil - 1st / Morocco - 2nd,Brazil - 1st / Morocco - 2nd,+100,2.00,1/1,2.0
+12313,Group Forecast,World Cup 2026 – Group C,Brazil - 1st / Scotland - 2nd,Brazil - 1st / Scotland - 2nd,+225,3.25,9/4,3.25
+12313,Group Forecast,World Cup 2026 – Group C,Morocco - 1st / Brazil - 2nd,Morocco - 1st / Brazil - 2nd,+450,5.50,9/2,5.5
+12313,Group Forecast,World Cup 2026 – Group C,Scotland - 1st / Brazil - 2nd,Scotland - 1st / Brazil - 2nd,+1600,17.00,16/1,17.0
+12313,Group Forecast,World Cup 2026 – Group C,Brazil - 1st / Haiti - 2nd,Brazil - 1st / Haiti - 2nd,+2000,21.00,20/1,21.0
+12313,Group Forecast,World Cup 2026 – Group C,Morocco - 1st / Scotland - 2nd,Morocco - 1st / Scotland - 2nd,+2800,29.00,28/1,29.0
+12313,Group Forecast,World Cup 2026 – Group C,Scotland - 1st / Morocco - 2nd,Scotland - 1st / Morocco - 2nd,+6500,66.00,65/1,66.0
+12313,Group Forecast,World Cup 2026 – Group C,Haiti - 1st / Brazil - 2nd,Haiti - 1st / Brazil - 2nd,+10000,101.00,100/1,101.0
+12313,Group Forecast,World Cup 2026 – Group C,Morocco - 1st / Haiti - 2nd,Morocco - 1st / Haiti - 2nd,+15000,151.00,150/1,151.0
+12313,Group Forecast,World Cup 2026 – Group C,Scotland - 1st / Haiti - 2nd,Scotland - 1st / Haiti - 2nd,+20000,201.00,200/1,201.0
+12313,Group Forecast,World Cup 2026 – Group C,Haiti - 1st / Morocco - 2nd,Haiti - 1st / Morocco - 2nd,+25000,251.00,250/1,251.0
+12313,Group Forecast,World Cup 2026 – Group C,Haiti - 1st / Scotland - 2nd,Haiti - 1st / Scotland - 2nd,+50000,501.00,500/1,501.0
+12313,Group E Forecast,World Cup 2026 – Group E,Germany - 1st / Ecuador - 2nd,Germany - 1st / Ecuador - 2nd,+120,2.20,6/5,2.2
+12313,Group E Forecast,World Cup 2026 – Group E,Germany - 1st / Ivory Coast - 2nd,Germany - 1st / Ivory Coast - 2nd,+225,3.25,9/4,3.25
+12313,Group E Forecast,World Cup 2026 – Group E,Ecuador - 1st / Germany - 2nd,Ecuador - 1st / Germany - 2nd,+400,5.00,4/1,5.0
+12313,Group E Forecast,World Cup 2026 – Group E,Ivory Coast - 1st / Germany - 2nd,Ivory Coast - 1st / Germany - 2nd,+1000,11.00,10/1,11.0
+12313,Group E Forecast,World Cup 2026 – Group E,Ecuador - 1st / Ivory Coast - 2nd,Ecuador - 1st / Ivory Coast - 2nd,+1600,17.00,16/1,17.0
+12313,Group E Forecast,World Cup 2026 – Group E,Germany - 1st / Curacao - 2nd,Germany - 1st / Curacao - 2nd,+2200,23.00,22/1,23.0
+12313,Group E Forecast,World Cup 2026 – Group E,Ivory Coast - 1st / Ecuador - 2nd,Ivory Coast - 1st / Ecuador - 2nd,+4000,41.00,40/1,41.0
+12313,Group E Forecast,World Cup 2026 – Group E,Curacao - 1st / Germany - 2nd,Curacao - 1st / Germany - 2nd,+10000,101.00,100/1,101.0
+12313,Group E Forecast,World Cup 2026 – Group E,Ivory Coast - 1st / Curacao - 2nd,Ivory Coast - 1st / Curacao - 2nd,+15000,151.00,150/1,151.0
+12313,Group E Forecast,World Cup 2026 – Group E,Ecuador - 1st / Curacao - 2nd,Ecuador - 1st / Curacao - 2nd,+15000,151.00,150/1,151.0
+12313,Group E Forecast,World Cup 2026 – Group E,Curacao - 1st / Ecuador - 2nd,Curacao - 1st / Ecuador - 2nd,+50000,501.00,500/1,501.0
+12313,Group E Forecast,World Cup 2026 – Group E,Curacao - 1st / Ivory Coast - 2nd,Curacao - 1st / Ivory Coast - 2nd,+70000,701.00,700/1,701.0
+12313,Group Forecast,World Cup 2026 – Group H,Spain - 1st / Uruguay - 2nd,Spain - 1st / Uruguay - 2nd,−165,1.60,20/33,1.60606061
+12313,Group Forecast,World Cup 2026 – Group H,Spain - 1st / Saudi Arabia - 2nd,Spain - 1st / Saudi Arabia - 2nd,+450,5.50,9/2,5.5
+12313,Group Forecast,World Cup 2026 – Group H,Uruguay - 1st / Spain - 2nd,Uruguay - 1st / Spain - 2nd,+550,6.50,11/2,6.5
+12313,Group Forecast,World Cup 2026 – Group H,Spain - 1st / Cape Verde - 2nd,Spain - 1st / Cape Verde - 2nd,+800,9.00,8/1,9.0
+12313,Group Forecast,World Cup 2026 – Group H,Uruguay - 1st / Saudi Arabia - 2nd,Uruguay - 1st / Saudi Arabia - 2nd,+3000,31.00,30/1,31.0
+12313,Group Forecast,World Cup 2026 – Group H,Saudi Arabia - 1st / Spain - 2nd,Saudi Arabia - 1st / Spain - 2nd,+3000,31.00,30/1,31.0
+12313,Group Forecast,World Cup 2026 – Group H,Saudi Arabia - 1st / Uruguay - 2nd,Saudi Arabia - 1st / Uruguay - 2nd,+5000,51.00,50/1,51.0
+12313,Group Forecast,World Cup 2026 – Group H,Cape Verde - 1st / Spain - 2nd,Cape Verde - 1st / Spain - 2nd,+6000,61.00,60/1,61.0
+12313,Group Forecast,World Cup 2026 – Group H,Uruguay - 1st / Cape Verde - 2nd,Uruguay - 1st / Cape Verde - 2nd,+8000,81.00,80/1,81.0
+12313,Group Forecast,World Cup 2026 – Group H,Cape Verde - 1st / Uruguay - 2nd,Cape Verde - 1st / Uruguay - 2nd,+15000,151.00,150/1,151.0
+12313,Group Forecast,World Cup 2026 – Group H,Saudi Arabia - 1st / Cape Verde - 2nd,Saudi Arabia - 1st / Cape Verde - 2nd,+25000,251.00,250/1,251.0
+12313,Group Forecast,World Cup 2026 – Group H,Cape Verde - 1st / Saudi Arabia - 2nd,Cape Verde - 1st / Saudi Arabia - 2nd,+25000,251.00,250/1,251.0
+12313,Group Forecast,World Cup 2026 – Group G,Belgium - 1st / Egypt - 2nd,Belgium - 1st / Egypt - 2nd,+180,2.80,9/5,2.8
+12313,Group Forecast,World Cup 2026 – Group G,Belgium - 1st / Iran - 2nd,Belgium - 1st / Iran - 2nd,+220,3.20,11/5,3.2
+12313,Group Forecast,World Cup 2026 – Group G,Egypt - 1st / Belgium - 2nd,Egypt - 1st / Belgium - 2nd,+700,8.00,7/1,8.0
+12313,Group Forecast,World Cup 2026 – Group G,Belgium - 1st / New Zealand - 2nd,Belgium - 1st / New Zealand - 2nd,+700,8.00,7/1,8.0
+12313,Group Forecast,World Cup 2026 – Group G,Iran - 1st / Belgium - 2nd,Iran - 1st / Belgium - 2nd,+1000,11.00,10/1,11.0
+12313,Group Forecast,World Cup 2026 – Group G,Egypt - 1st / Iran - 2nd,Egypt - 1st / Iran - 2nd,+2200,23.00,22/1,23.0
+12313,Group Forecast,World Cup 2026 – Group G,Iran - 1st / Egypt - 2nd,Iran - 1st / Egypt - 2nd,+2500,26.00,25/1,26.0
+12313,Group Forecast,World Cup 2026 – Group G,New Zealand - 1st / Belgium - 2nd,New Zealand - 1st / Belgium - 2nd,+2800,29.00,28/1,29.0
+12313,Group Forecast,World Cup 2026 – Group G,Egypt - 1st / New Zealand - 2nd,Egypt - 1st / New Zealand - 2nd,+3500,36.00,35/1,36.0
+12313,Group Forecast,World Cup 2026 – Group G,Iran - 1st / New Zealand - 2nd,Iran - 1st / New Zealand - 2nd,+5000,51.00,50/1,51.0
+12313,Group Forecast,World Cup 2026 – Group G,New Zealand - 1st / Egypt - 2nd,New Zealand - 1st / Egypt - 2nd,+10000,101.00,100/1,101.0
+12313,Group Forecast,World Cup 2026 – Group G,New Zealand - 1st / Iran - 2nd,New Zealand - 1st / Iran - 2nd,+20000,201.00,200/1,201.0
+12313,Group Forecast,World Cup 2026 – Group J,Argentina - 1st / Austria - 2nd,Argentina - 1st / Austria - 2nd,+150,2.50,6/4,2.5
+12313,Group Forecast,World Cup 2026 – Group J,Argentina - 1st / Algeria - 2nd,Argentina - 1st / Algeria - 2nd,+190,2.90,19/10,2.9
+12313,Group Forecast,World Cup 2026 – Group J,Austria - 1st / Argentina - 2nd,Austria - 1st / Argentina - 2nd,+650,7.50,13/2,7.5
+12313,Group Forecast,World Cup 2026 – Group J,Algeria - 1st / Argentina - 2nd,Algeria - 1st / Argentina - 2nd,+800,9.00,8/1,9.0
+12313,Group Forecast,World Cup 2026 – Group J,Argentina - 1st / Jordan - 2nd,Argentina - 1st / Jordan - 2nd,+1100,12.00,11/1,12.0
+12313,Group Forecast,World Cup 2026 – Group J,Austria - 1st / Algeria - 2nd,Austria - 1st / Algeria - 2nd,+2500,26.00,25/1,26.0
+12313,Group Forecast,World Cup 2026 – Group J,Algeria - 1st / Austria - 2nd,Algeria - 1st / Austria - 2nd,+2800,29.00,28/1,29.0
+12313,Group Forecast,World Cup 2026 – Group J,Jordan - 1st / Argentina - 2nd,Jordan - 1st / Argentina - 2nd,+5000,51.00,50/1,51.0
+12313,Group Forecast,World Cup 2026 – Group J,Austria - 1st / Jordan - 2nd,Austria - 1st / Jordan - 2nd,+10000,101.00,100/1,101.0
+12313,Group Forecast,World Cup 2026 – Group J,Algeria - 1st / Jordan - 2nd,Algeria - 1st / Jordan - 2nd,+15000,151.00,150/1,151.0
+12313,Group Forecast,World Cup 2026 – Group J,Jordan - 1st / Austria - 2nd,Jordan - 1st / Austria - 2nd,+20000,201.00,200/1,201.0
+12313,Group Forecast,World Cup 2026 – Group J,Jordan - 1st / Algeria - 2nd,Jordan - 1st / Algeria - 2nd,+20000,201.00,200/1,201.0
+12313,Group Forecast,World Cup 2026 – Group L,England - 1st / Croatia - 2nd,England - 1st / Croatia - 2nd,+100,2.00,1/1,2.0
+12313,Group Forecast,World Cup 2026 – Group L,England - 1st / Ghana - 2nd,England - 1st / Ghana - 2nd,+300,4.00,3/1,4.0
+12313,Group Forecast,World Cup 2026 – Group L,Croatia - 1st / England - 2nd,Croatia - 1st / England - 2nd,+400,5.00,4/1,5.0
+12313,Group Forecast,World Cup 2026 – Group L,England - 1st / Panama - 2nd,England - 1st / Panama - 2nd,+1000,11.00,10/1,11.0
+12313,Group Forecast,World Cup 2026 – Group L,Ghana - 1st / England - 2nd,Ghana - 1st / England - 2nd,+1600,17.00,16/1,17.0
+12313,Group Forecast,World Cup 2026 – Group L,Croatia - 1st / Ghana - 2nd,Croatia - 1st / Ghana - 2nd,+3000,31.00,30/1,31.0
+12313,Group Forecast,World Cup 2026 – Group L,Panama - 1st / England - 2nd,Panama - 1st / England - 2nd,+5000,51.00,50/1,51.0
+12313,Group Forecast,World Cup 2026 – Group L,Ghana - 1st / Croatia - 2nd,Ghana - 1st / Croatia - 2nd,+5000,51.00,50/1,51.0
+12313,Group Forecast,World Cup 2026 – Group L,Croatia - 1st / Panama - 2nd,Croatia - 1st / Panama - 2nd,+8000,81.00,80/1,81.0
+12313,Group Forecast,World Cup 2026 – Group L,Panama - 1st / Croatia - 2nd,Panama - 1st / Croatia - 2nd,+20000,201.00,200/1,201.0
+12313,Group Forecast,World Cup 2026 – Group L,Ghana - 1st / Panama - 2nd,Ghana - 1st / Panama - 2nd,+25000,251.00,250/1,251.0
+12313,Group Forecast,World Cup 2026 – Group L,Panama - 1st / Ghana - 2nd,Panama - 1st / Ghana - 2nd,+50000,501.00,500/1,501.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Kylian Mbappe,Kylian Mbappe,+600,7.00,6/1,7.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Harry Kane,Harry Kane,+700,8.00,7/1,8.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Lionel Messi,Lionel Messi,+1200,13.00,12/1,13.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Erling Braut Haaland,Erling Braut Haaland,+1400,15.00,14/1,15.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Lamine Yamal,Lamine Yamal,+1600,17.00,16/1,17.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Cristiano Ronaldo,Cristiano Ronaldo,+2000,21.00,20/1,21.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Ousmane Dembele,Ousmane Dembele,+2000,21.00,20/1,21.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Nick Woltemade,Nick Woltemade,+2000,21.00,20/1,21.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Lautaro Martinez,Lautaro Martinez,+2500,26.00,25/1,26.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Vinicius Junior,Vinicius Junior,+2500,26.00,25/1,26.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Romelu Lukaku,Romelu Lukaku,+3000,31.00,30/1,31.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Raphinha,Raphinha,+3000,31.00,30/1,31.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Mikel Oyarzabal,Mikel Oyarzabal,+3000,31.00,30/1,31.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Julian Alvarez,Julian Alvarez,+3500,36.00,35/1,36.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Alvaro Morata,Alvaro Morata,+3500,36.00,35/1,36.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Richarlison,Richarlison,+3500,36.00,35/1,36.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Joao Pedro,Joao Pedro,+3500,36.00,35/1,36.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Cody Gakpo,Cody Gakpo,+4000,41.00,40/1,41.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Bukayo Saka,Bukayo Saka,+4000,41.00,40/1,41.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Memphis Depay,Memphis Depay,+4000,41.00,40/1,41.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jean-Philippe Mateta,Jean-Philippe Mateta,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jude Bellingham,Jude Bellingham,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Ferran Torres,Ferran Torres,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Cole Palmer,Cole Palmer,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Goncalo Ramos,Goncalo Ramos,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Florian Wirtz,Florian Wirtz,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Marcus Thuram,Marcus Thuram,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Neymar,Neymar,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Enner Valencia,Enner Valencia,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Hugo Ekitike,Hugo Ekitike,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Bruno Fernandes,Bruno Fernandes,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Luis Diaz,Luis Diaz,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Estevao Willian,Estevao Willian,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Desire Doue,Desire Doue,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Mohamed Salah,Mohamed Salah,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Mikel Merino,Mikel Merino,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Kai Havertz,Kai Havertz,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Dani Olmo,Dani Olmo,+5000,51.00,50/1,51.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Donyell Malen,Donyell Malen,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Morgan Rogers,Morgan Rogers,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Santiago Gimenez,Santiago Gimenez,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Darwin Nunez,Darwin Nunez,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Eberechi Eze,Eberechi Eze,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Lois Openda,Lois Openda,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Serge Gnabry,Serge Gnabry,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Phil Foden,Phil Foden,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jamal Musiala,Jamal Musiala,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Leandro Trossard,Leandro Trossard,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Marcus Rashford,Marcus Rashford,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Rodrygo,Rodrygo,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Borja Iglesias,Borja Iglesias,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Matheus Cunha,Matheus Cunha,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Alexander Sorloth,Alexander Sorloth,+6500,66.00,65/1,66.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Kingsley Coman,Kingsley Coman,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Folarin Balogun,Folarin Balogun,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Kevin De Bruyne,Kevin De Bruyne,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Christian Pulisic,Christian Pulisic,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Anthony Gordon,Anthony Gordon,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Rafael Leao,Rafael Leao,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jeremy Doku,Jeremy Doku,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Sadio Mane,Sadio Mane,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Leroy Sane,Leroy Sane,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jhon Duran,Jhon Duran,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Raul Jimenez,Raul Jimenez,+8000,81.00,80/1,81.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Omar Marmoush,Omar Marmoush,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Mohammed Kudus,Mohammed Kudus,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Xavi Simons,Xavi Simons,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Nicolas Jackson,Nicolas Jackson,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jonathan David,Jonathan David,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Pedro Neto,Pedro Neto,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Haji Wright,Haji Wright,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Nico Williams,Nico Williams,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Ricardo Pepi,Ricardo Pepi,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Scott McTominay,Scott McTominay,+10000,101.00,100/1,101.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Breel-Donald Embolo,Breel-Donald Embolo,+12000,121.00,120/1,121.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Ismaila Sarr,Ismaila Sarr,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Hamza Igamane,Hamza Igamane,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Noa Lang,Noa Lang,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Hirving Lozano,Hirving Lozano,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Kang-In Lee,Kang-In Lee,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Enzo Fernandez,Enzo Fernandez,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jorgen Strand Larsen,Jorgen Strand Larsen,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Riyad Mahrez,Riyad Mahrez,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,James Rodriguez,James Rodriguez,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Brahim Diaz,Brahim Diaz,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Andrej Kramaric,Andrej Kramaric,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Jhon Arias,Jhon Arias,+15000,151.00,150/1,151.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Pedri,Pedri,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Che Adams,Che Adams,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Chris Wood,Chris Wood,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Oscar Bobb,Oscar Bobb,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Cyle Larin,Cyle Larin,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Martin Odegaard,Martin Odegaard,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Daizen Maeda,Daizen Maeda,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Takumi Minamino,Takumi Minamino,+20000,201.00,200/1,201.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Giovanni Reyna,Giovanni Reyna,+25000,251.00,250/1,251.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Julio Enciso,Julio Enciso,+25000,251.00,250/1,251.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Achraf Hakimi,Achraf Hakimi,+25000,251.00,250/1,251.0
+12314,Top Goalscorer,World Cup 2026 - Player Props,Brenden Aaronson,Brenden Aaronson,+50000,501.00,500/1,501.0
+12329,To Reach The Semi Final,World Cup 2026,Spain,Spain,+100,2.00,1/1,2.0
+12329,To Reach The Semi Final,World Cup 2026,France,France,+130,2.30,13/10,2.3
+12329,To Reach The Semi Final,World Cup 2026,England,England,+140,2.40,7/5,2.4
+12329,To Reach The Semi Final,World Cup 2026,Brazil,Brazil,+180,2.80,9/5,2.8
+12329,To Reach The Semi Final,World Cup 2026,Argentina,Argentina,+190,2.90,19/10,2.9
+12329,To Reach The Semi Final,World Cup 2026,Portugal,Portugal,+200,3.00,2/1,3.0
+12329,To Reach The Semi Final,World Cup 2026,Germany,Germany,+260,3.60,13/5,3.6
+12329,To Reach The Semi Final,World Cup 2026,Netherlands,Netherlands,+450,5.50,9/2,5.5
+12329,To Reach The Semi Final,World Cup 2026,Belgium,Belgium,+500,6.00,5/1,6.0
+12329,To Reach The Semi Final,World Cup 2026,Norway,Norway,+550,6.50,11/2,6.5
+12329,To Reach The Semi Final,World Cup 2026,Uruguay,Uruguay,+650,7.50,13/2,7.5
+12329,To Reach The Semi Final,World Cup 2026,Colombia,Colombia,+700,8.00,7/1,8.0
+12329,To Reach The Semi Final,World Cup 2026,USA,USA,+850,9.50,17/2,9.5
+12329,To Reach The Semi Final,World Cup 2026,Switzerland,Switzerland,+850,9.50,17/2,9.5
+12329,To Reach The Semi Final,World Cup 2026,Turkey,Turkey,+900,10.00,9/1,10.0
+12329,To Reach The Semi Final,World Cup 2026,Morocco,Morocco,+1000,11.00,10/1,11.0
+12329,To Reach The Semi Final,World Cup 2026,Croatia,Croatia,+1000,11.00,10/1,11.0
+12329,To Reach The Semi Final,World Cup 2026,Japan,Japan,+1100,12.00,11/1,12.0
+12329,To Reach The Semi Final,World Cup 2026,Mexico,Mexico,+1200,13.00,12/1,13.0
+12329,To Reach The Semi Final,World Cup 2026,Sweden,Sweden,+1400,15.00,14/1,15.0
+12329,To Reach The Semi Final,World Cup 2026,Ecuador,Ecuador,+1400,15.00,14/1,15.0
+12329,To Reach The Semi Final,World Cup 2026,Canada,Canada,+1600,17.00,16/1,17.0
+12329,To Reach The Semi Final,World Cup 2026,Austria,Austria,+1600,17.00,16/1,17.0
+12329,To Reach The Semi Final,World Cup 2026,Senegal,Senegal,+1800,19.00,18/1,19.0
+12329,To Reach The Semi Final,World Cup 2026,Algeria,Algeria,+2000,21.00,20/1,21.0
+12329,To Reach The Semi Final,World Cup 2026,Czech Republic,Czech Republic,+2500,26.00,25/1,26.0
+12329,To Reach The Semi Final,World Cup 2026,Paraguay,Paraguay,+2500,26.00,25/1,26.0
+12329,To Reach The Semi Final,World Cup 2026,South Korea,South Korea,+2800,29.00,28/1,29.0
+12329,To Reach The Semi Final,World Cup 2026,Scotland,Scotland,+2800,29.00,28/1,29.0
+12329,To Reach The Semi Final,World Cup 2026,Ivory Coast,Ivory Coast,+2800,29.00,28/1,29.0
+12329,To Reach The Semi Final,World Cup 2026,Bosnia,Bosnia,+3000,31.00,30/1,31.0
+12329,To Reach The Semi Final,World Cup 2026,Ghana,Ghana,+3000,31.00,30/1,31.0
+12329,To Reach The Semi Final,World Cup 2026,Egypt,Egypt,+3000,31.00,30/1,31.0
+12329,To Reach The Semi Final,World Cup 2026,DR Congo,DR Congo,+4000,41.00,40/1,41.0
+12329,To Reach The Semi Final,World Cup 2026,Australia,Australia,+6500,66.00,65/1,66.0
+12329,To Reach The Semi Final,World Cup 2026,Tunisia,Tunisia,+8000,81.00,80/1,81.0
+12329,To Reach The Semi Final,World Cup 2026,Saudi Arabia,Saudi Arabia,+8000,81.00,80/1,81.0
+12329,To Reach The Semi Final,World Cup 2026,Iraq,Iraq,+10000,101.00,100/1,101.0
+12329,To Reach The Semi Final,World Cup 2026,Uzbekistan,Uzbekistan,+10000,101.00,100/1,101.0
+12329,To Reach The Semi Final,World Cup 2026,South Africa,South Africa,+10000,101.00,100/1,101.0
+12329,To Reach The Semi Final,World Cup 2026,Panama,Panama,+10000,101.00,100/1,101.0
+12329,To Reach The Semi Final,World Cup 2026,Qatar,Qatar,+15000,151.00,150/1,151.0
+12329,To Reach The Semi Final,World Cup 2026,New Zealand,New Zealand,+25000,251.00,250/1,251.0
+12329,To Reach The Semi Final,World Cup 2026,Jordan,Jordan,+25000,251.00,250/1,251.0
+12329,To Reach The Semi Final,World Cup 2026,Cape Verde,Cape Verde,+25000,251.00,250/1,251.0
+12329,To Reach The Semi Final,World Cup 2026,Haiti,Haiti,+50000,501.00,500/1,501.0
+12329,To Reach The Semi Final,World Cup 2026,Curacao,Curacao,+50000,501.00,500/1,501.0
+12334,To Reach The Quarter Final,World Cup 2026,Spain,Spain,−160,1.62,5/8,1.625
+12334,To Reach The Quarter Final,World Cup 2026,England,England,−145,1.68,20/29,1.68965518
+12334,To Reach The Quarter Final,World Cup 2026,France,France,−135,1.74,20/27,1.74074075
+12334,To Reach The Quarter Final,World Cup 2026,Brazil,Brazil,−120,1.83,5/6,1.83333334
+12334,To Reach The Quarter Final,World Cup 2026,Argentina,Argentina,−110,1.90,10/11,1.90909091
+12334,To Reach The Quarter Final,World Cup 2026,Portugal,Portugal,+100,2.00,1/1,2.0
+12334,To Reach The Quarter Final,World Cup 2026,Germany,Germany,+130,2.30,13/10,2.3
+12334,To Reach The Quarter Final,World Cup 2026,Belgium,Belgium,+150,2.50,6/4,2.5
+12334,To Reach The Quarter Final,World Cup 2026,Netherlands,Netherlands,+180,2.80,9/5,2.8
+12334,To Reach The Quarter Final,World Cup 2026,Norway,Norway,+260,3.60,13/5,3.6
+12334,To Reach The Quarter Final,World Cup 2026,USA,USA,+275,3.75,11/4,3.75
+12334,To Reach The Quarter Final,World Cup 2026,Switzerland,Switzerland,+275,3.75,11/4,3.75
+12334,To Reach The Quarter Final,World Cup 2026,Colombia,Colombia,+280,3.80,14/5,3.8
+12334,To Reach The Quarter Final,World Cup 2026,Uruguay,Uruguay,+300,4.00,3/1,4.0
+12334,To Reach The Quarter Final,World Cup 2026,Turkey,Turkey,+300,4.00,3/1,4.0
+12334,To Reach The Quarter Final,World Cup 2026,Morocco,Morocco,+350,4.50,7/2,4.5
+12334,To Reach The Quarter Final,World Cup 2026,Mexico,Mexico,+350,4.50,7/2,4.5
+12334,To Reach The Quarter Final,World Cup 2026,Japan,Japan,+400,5.00,4/1,5.0
+12334,To Reach The Quarter Final,World Cup 2026,Croatia,Croatia,+400,5.00,4/1,5.0
+12334,To Reach The Quarter Final,World Cup 2026,Canada,Canada,+450,5.50,9/2,5.5
+12334,To Reach The Quarter Final,World Cup 2026,Ecuador,Ecuador,+550,6.50,11/2,6.5
+12334,To Reach The Quarter Final,World Cup 2026,South Korea,South Korea,+650,7.50,13/2,7.5
+12334,To Reach The Quarter Final,World Cup 2026,Senegal,Senegal,+650,7.50,13/2,7.5
+12334,To Reach The Quarter Final,World Cup 2026,Sweden,Sweden,+650,7.50,13/2,7.5
+12334,To Reach The Quarter Final,World Cup 2026,Austria,Austria,+700,8.00,7/1,8.0
+12334,To Reach The Quarter Final,World Cup 2026,Czech Republic,Czech Republic,+750,8.50,15/2,8.5
+12334,To Reach The Quarter Final,World Cup 2026,Scotland,Scotland,+800,9.00,8/1,9.0
+12334,To Reach The Quarter Final,World Cup 2026,Paraguay,Paraguay,+800,9.00,8/1,9.0
+12334,To Reach The Quarter Final,World Cup 2026,Algeria,Algeria,+800,9.00,8/1,9.0
+12334,To Reach The Quarter Final,World Cup 2026,Bosnia,Bosnia,+850,9.50,17/2,9.5
+12334,To Reach The Quarter Final,World Cup 2026,Egypt,Egypt,+900,10.00,9/1,10.0
+12334,To Reach The Quarter Final,World Cup 2026,Ivory Coast,Ivory Coast,+1000,11.00,10/1,11.0
+12334,To Reach The Quarter Final,World Cup 2026,Ghana,Ghana,+1200,13.00,12/1,13.0
+12334,To Reach The Quarter Final,World Cup 2026,Australia,Australia,+1600,17.00,16/1,17.0
+12334,To Reach The Quarter Final,World Cup 2026,DR Congo,DR Congo,+1600,17.00,16/1,17.0
+12334,To Reach The Quarter Final,World Cup 2026,Tunisia,Tunisia,+2000,21.00,20/1,21.0
+12334,To Reach The Quarter Final,World Cup 2026,South Africa,South Africa,+2000,21.00,20/1,21.0
+12334,To Reach The Quarter Final,World Cup 2026,Saudi Arabia,Saudi Arabia,+2200,23.00,22/1,23.0
+12334,To Reach The Quarter Final,World Cup 2026,Panama,Panama,+3000,31.00,30/1,31.0
+12334,To Reach The Quarter Final,World Cup 2026,Uzbekistan,Uzbekistan,+3500,36.00,35/1,36.0
+12334,To Reach The Quarter Final,World Cup 2026,Qatar,Qatar,+3500,36.00,35/1,36.0
+12334,To Reach The Quarter Final,World Cup 2026,New Zealand,New Zealand,+4000,41.00,40/1,41.0
+12334,To Reach The Quarter Final,World Cup 2026,Jordan,Jordan,+5000,51.00,50/1,51.0
+12334,To Reach The Quarter Final,World Cup 2026,Cape Verde,Cape Verde,+5000,51.00,50/1,51.0
+12334,To Reach The Quarter Final,World Cup 2026,Iraq,Iraq,+6500,66.00,65/1,66.0
+12334,To Reach The Quarter Final,World Cup 2026,Haiti,Haiti,+15000,151.00,150/1,151.0
+12334,To Reach The Quarter Final,World Cup 2026,Curacao,Curacao,+15000,151.00,150/1,151.0
+12338,First Time Winner,World Cup 2026,Yes,Yes,+200,3.00,2/1,3.0
+12338,First Time Winner,World Cup 2026,No,No,−280,1.35,5/14,1.35714286
+12346,To Win All Group Games,World Cup 2026 – Group D,USA,USA,+650,7.50,13/2,7.5
+12346,To Win All Group Games,World Cup 2026 – Group D,Turkey,Turkey,+900,10.00,9/1,10.0
+12346,To Win All Group Games,World Cup 2026 – Group D,Paraguay,Paraguay,+3000,31.00,30/1,31.0
+12346,To Win All Group Games,World Cup 2026 – Group D,Australia,Australia,+4000,41.00,40/1,41.0
+12346,To Win All Group Games,World Cup 2026 – Group E,Germany,Germany,+120,2.20,6/5,2.2
+12346,To Win All Group Games,World Cup 2026 – Group E,Ecuador,Ecuador,+1200,13.00,12/1,13.0
+12346,To Win All Group Games,World Cup 2026 – Group E,Ivory Coast,Ivory Coast,+3000,31.00,30/1,31.0
+12346,To Win All Group Games,World Cup 2026 – Group E,Curacao,Curacao,+25000,251.00,250/1,251.0
+12346,To Win All Group Games,World Cup 2026 – Group H,Spain,Spain,−120,1.83,5/6,1.83333334
+12346,To Win All Group Games,World Cup 2026 – Group H,Uruguay,Uruguay,+900,10.00,9/1,10.0
+12346,To Win All Group Games,World Cup 2026 – Group H,Saudi Arabia,Saudi Arabia,+8000,81.00,80/1,81.0
+12346,To Win All Group Games,World Cup 2026 – Group H,Cape Verde,Cape Verde,+25000,251.00,250/1,251.0
+12346,To Win All Group Games,World Cup 2026 – Group G,Belgium,Belgium,+200,3.00,2/1,3.0
+12346,To Win All Group Games,World Cup 2026 – Group G,Egypt,Egypt,+1800,19.00,18/1,19.0
+12346,To Win All Group Games,World Cup 2026 – Group G,Iran,Iran,+2200,23.00,22/1,23.0
+12346,To Win All Group Games,World Cup 2026 – Group G,New Zealand,New Zealand,+8000,81.00,80/1,81.0
+12346,To Win All Group Games,World Cup 2026 – Group J,Argentina,Argentina,+125,2.25,5/4,2.25
+12346,To Win All Group Games,World Cup 2026 – Group J,Austria,Austria,+1600,17.00,16/1,17.0
+12346,To Win All Group Games,World Cup 2026 – Group J,Algeria,Algeria,+5000,51.00,50/1,51.0
+12346,To Win All Group Games,World Cup 2026 – Group J,Jordan,Jordan,+15000,151.00,150/1,151.0
+12346,To Win All Group Games,World Cup 2026 – Group L,England,England,+120,2.20,6/5,2.2
+12346,To Win All Group Games,World Cup 2026 – Group L,Croatia,Croatia,+1400,15.00,14/1,15.0
+12346,To Win All Group Games,World Cup 2026 – Group L,Ghana,Ghana,+3000,31.00,30/1,31.0
+12346,To Win All Group Games,World Cup 2026 – Group L,Panama,Panama,+10000,101.00,100/1,101.0
+12347,To Lose All Group Games,World Cup 2026 – Group D,Australia,Australia,+750,8.50,15/2,8.5
+12347,To Lose All Group Games,World Cup 2026 – Group D,Paraguay,Paraguay,+1000,11.00,10/1,11.0
+12347,To Lose All Group Games,World Cup 2026 – Group D,Turkey,Turkey,+2800,29.00,28/1,29.0
+12347,To Lose All Group Games,World Cup 2026 – Group D,USA,USA,+4000,41.00,40/1,41.0
+12347,To Lose All Group Games,World Cup 2026 – Group C,Haiti,Haiti,−115,1.86,20/23,1.86956522
+12347,To Lose All Group Games,World Cup 2026 – Group C,Scotland,Scotland,+1200,13.00,12/1,13.0
+12347,To Lose All Group Games,World Cup 2026 – Group C,Morocco,Morocco,+6500,66.00,65/1,66.0
+12347,To Lose All Group Games,World Cup 2026 – Group C,Brazil,Brazil,+25000,251.00,250/1,251.0
+12347,To Lose All Group Games,World Cup 2026 – Group E,Curacao,Curacao,−120,1.83,5/6,1.83333334
+12347,To Lose All Group Games,World Cup 2026 – Group E,Ivory Coast,Ivory Coast,+1800,19.00,18/1,19.0
+12347,To Lose All Group Games,World Cup 2026 – Group E,Ecuador,Ecuador,+4000,41.00,40/1,41.0
+12347,To Lose All Group Games,World Cup 2026 – Group E,Germany,Germany,+20000,201.00,200/1,201.0
+12347,To Lose All Group Games,World Cup 2026 – Group H,Cape Verde,Cape Verde,+260,3.60,13/5,3.6
+12347,To Lose All Group Games,World Cup 2026 – Group H,Saudi Arabia,Saudi Arabia,+400,5.00,4/1,5.0
+12347,To Lose All Group Games,World Cup 2026 – Group H,Uruguay,Uruguay,+6500,66.00,65/1,66.0
+12347,To Lose All Group Games,World Cup 2026 – Group H,Spain,Spain,+25000,251.00,250/1,251.0
+12347,To Lose All Group Games,World Cup 2026 – Group G,New Zealand,New Zealand,+250,3.50,5/2,3.5
+12347,To Lose All Group Games,World Cup 2026 – Group G,Iran,Iran,+1400,15.00,14/1,15.0
+12347,To Lose All Group Games,World Cup 2026 – Group G,Egypt,Egypt,+1800,19.00,18/1,19.0
+12347,To Lose All Group Games,World Cup 2026 – Group G,Belgium,Belgium,+25000,251.00,250/1,251.0
+12347,To Lose All Group Games,World Cup 2026 – Group J,Jordan,Jordan,+200,3.00,2/1,3.0
+12347,To Lose All Group Games,World Cup 2026 – Group J,Algeria,Algeria,+1400,15.00,14/1,15.0
+12347,To Lose All Group Games,World Cup 2026 – Group J,Austria,Austria,+2000,21.00,20/1,21.0
+12347,To Lose All Group Games,World Cup 2026 – Group J,Argentina,Argentina,+25000,251.00,250/1,251.0
+12347,To Lose All Group Games,World Cup 2026 – Group L,Panama,Panama,+200,3.00,2/1,3.0
+12347,To Lose All Group Games,World Cup 2026 – Group L,Ghana,Ghana,+650,7.50,13/2,7.5
+12347,To Lose All Group Games,World Cup 2026 – Group L,Croatia,Croatia,+2000,21.00,20/1,21.0
+12347,To Lose All Group Games,World Cup 2026 – Group L,England,England,+25000,251.00,250/1,251.0
+15977,Group Winner,World Cup 2026 – Group A,Mexico,Mexico,+110,2.10,11/10,2.1
+15977,Group Winner,World Cup 2026 – Group A,Czech Republic,Czech Republic,+240,3.40,12/5,3.4
+15977,Group Winner,World Cup 2026 – Group A,South Korea,South Korea,+300,4.00,3/1,4.0
+15977,Group Winner,World Cup 2026 – Group A,South Africa,South Africa,+1200,13.00,12/1,13.0
+15977,Group Winner,World Cup 2026 – Group B,Switzerland,Switzerland,−105,1.95,20/21,1.95238096
+15977,Group Winner,World Cup 2026 – Group B,Canada,Canada,+260,3.60,13/5,3.6
+15977,Group Winner,World Cup 2026 – Group B,Bosnia,Bosnia,+260,3.60,13/5,3.6
+15977,Group Winner,World Cup 2026 – Group B,Qatar,Qatar,+2800,29.00,28/1,29.0
+15977,Group Winner,World Cup 2026 – Group D,USA,USA,+140,2.40,7/5,2.4
+15977,Group Winner,World Cup 2026 – Group D,Turkey,Turkey,+180,2.80,9/5,2.8
+15977,Group Winner,World Cup 2026 – Group D,Paraguay,Paraguay,+425,5.25,17/4,5.25
+15977,Group Winner,World Cup 2026 – Group D,Australia,Australia,+700,8.00,7/1,8.0
+15977,Group Winner,World Cup 2026 – Group C,Brazil,Brazil,−475,1.21,4/19,1.21052632
+15977,Group Winner,World Cup 2026 – Group C,Morocco,Morocco,+450,5.50,9/2,5.5
+15977,Group Winner,World Cup 2026 – Group C,Scotland,Scotland,+900,10.00,9/1,10.0
+15977,Group Winner,World Cup 2026 – Group C,Haiti,Haiti,+10000,101.00,100/1,101.0
+15977,Group Winner,World Cup 2026 – Group E,Germany,Germany,−340,1.29,5/17,1.29411765
+15977,Group Winner,World Cup 2026 – Group E,Ecuador,Ecuador,+400,5.00,4/1,5.0
+15977,Group Winner,World Cup 2026 – Group E,Ivory Coast,Ivory Coast,+700,8.00,7/1,8.0
+15977,Group Winner,World Cup 2026 – Group E,Curacao,Curacao,+13000,131.00,130/1,131.0
+15977,Group Winner,World Cup 2026 – Group F,Netherlands,Netherlands,−125,1.80,4/5,1.8
+15977,Group Winner,World Cup 2026 – Group F,Japan,Japan,+300,4.00,3/1,4.0
+15977,Group Winner,World Cup 2026 – Group F,Sweden,Sweden,+400,5.00,4/1,5.0
+15977,Group Winner,World Cup 2026 – Group F,Tunisia,Tunisia,+800,9.00,8/1,9.0
+15977,Group Winner,World Cup 2026 – Group H,Spain,Spain,−500,1.20,1/5,1.2
+15977,Group Winner,World Cup 2026 – Group H,Uruguay,Uruguay,+400,5.00,4/1,5.0
+15977,Group Winner,World Cup 2026 – Group H,Saudi Arabia,Saudi Arabia,+1600,17.00,16/1,17.0
+15977,Group Winner,World Cup 2026 – Group H,Cape Verde,Cape Verde,+4000,41.00,40/1,41.0
+15977,Group Winner,World Cup 2026 – Group G,Belgium,Belgium,−250,1.40,2/5,1.4
+15977,Group Winner,World Cup 2026 – Group G,Egypt,Egypt,+450,5.50,9/2,5.5
+15977,Group Winner,World Cup 2026 – Group G,Iran,Iran,+600,7.00,6/1,7.0
+15977,Group Winner,World Cup 2026 – Group G,New Zealand,New Zealand,+2000,21.00,20/1,21.0
+15977,Group Winner,World Cup 2026 – Group I,France,France,−235,1.42,20/47,1.42553192
+15977,Group Winner,World Cup 2026 – Group I,Norway,Norway,+280,3.80,14/5,3.8
+15977,Group Winner,World Cup 2026 – Group I,Senegal,Senegal,+850,9.50,17/2,9.5
+15977,Group Winner,World Cup 2026 – Group I,Iraq,Iraq,+4000,41.00,40/1,41.0
+15977,Group Winner,World Cup 2026 – Group J,Argentina,Argentina,−340,1.29,5/17,1.29411765
+15977,Group Winner,World Cup 2026 – Group J,Austria,Austria,+450,5.50,9/2,5.5
+15977,Group Winner,World Cup 2026 – Group J,Algeria,Algeria,+650,7.50,13/2,7.5
+15977,Group Winner,World Cup 2026 – Group J,Jordan,Jordan,+4000,41.00,40/1,41.0
+15977,Group Winner,World Cup 2026 – Group L,England,England,−340,1.29,5/17,1.29411765
+15977,Group Winner,World Cup 2026 – Group L,Croatia,Croatia,+400,5.00,4/1,5.0
+15977,Group Winner,World Cup 2026 – Group L,Ghana,Ghana,+1000,11.00,10/1,11.0
+15977,Group Winner,World Cup 2026 – Group L,Panama,Panama,+2500,26.00,25/1,26.0
+15977,Group Winner,World Cup 2026 – Group K,Portugal,Portugal,−230,1.43,10/23,1.43478261
+15977,Group Winner,World Cup 2026 – Group K,Colombia,Colombia,+240,3.40,12/5,3.4
+15977,Group Winner,World Cup 2026 – Group K,DR Congo,DR Congo,+800,9.00,8/1,9.0
+15977,Group Winner,World Cup 2026 – Group K,Uzbekistan,Uzbekistan,+3500,36.00,35/1,36.0
